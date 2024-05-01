@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: nginx
-  newName: "1.20"
+  newName: "1.21"
